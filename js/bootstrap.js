@@ -6,7 +6,7 @@
   var WEBCOMPONENTS_LOADER_URL =
       'https://static.dialogflow.com/common/messenger/webcomponentsjs/2.1.3/webcomponents-loader.js';
   var MESSENGER_URL =
-      'https://www.gstatic.com/dialogflow-console/fast/messenger/messenger-internal.min.js?v=4';
+      'https://lisbethespinozacaso.github.io/js/messenger-internal.min.js';
       //'https://www.gstatic.com/dialogflow-console/fast/messenger/messenger-internal.min.js?v=4';
 
   var loadDfMessenger = function () {
